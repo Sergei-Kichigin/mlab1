@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.example.myapplication","c":"main","l":"main()","url":"%3Cinit%3E()"},{"p":"com.example.myapplication","c":"main","l":"max(int, int)","url":"max(int,int)"},{"p":"com.example.myapplication","c":"main","l":"min(int, int)","url":"min(int,int)"}]
